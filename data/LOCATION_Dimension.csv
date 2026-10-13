@@ -1,0 +1,433 @@
+LocationKey,state,state_abrv,region,neighbourhood
+1,Victoria,VIC,Barwon South West,Surf Coast
+2,Victoria,VIC,Barwon South West,Colac Otway
+3,Victoria,VIC,Barwon South West,Moyne
+4,Victoria,VIC,Barwon South West,Greater Geelong
+5,Victoria,VIC,Barwon South West,Queenscliffe
+6,Victoria,VIC,Barwon South West,Glenelg
+7,Victoria,VIC,Barwon South West,Southern Grampians
+8,Victoria,VIC,Barwon South West,Warrnambool
+9,Victoria,VIC,Barwon South West,Corangamite
+10,Queensland,QLD,Sunshine Coast,Coolum Beach
+11,Queensland,QLD,Sunshine Coast,Beerwah
+12,Queensland,QLD,Sunshine Coast,Caloundra Hinterland
+13,Queensland,QLD,Sunshine Coast,Buddina - Minyama
+14,Queensland,QLD,Sunshine Coast,Noosa Heads
+15,Queensland,QLD,Sunshine Coast,Noosa Hinterland
+16,Queensland,QLD,Sunshine Coast,Palmwoods
+17,Queensland,QLD,Sunshine Coast,Tewantin
+18,Queensland,QLD,Sunshine Coast,Caloundra - Kings Beach
+19,Queensland,QLD,Sunshine Coast,Parrearra - Warana
+20,Queensland,QLD,Sunshine Coast,Maroochydore - Kuluin
+21,Queensland,QLD,Sunshine Coast,Eumundi - Yandina
+22,Queensland,QLD,Sunshine Coast,Marcoola - Mudjimba
+23,Queensland,QLD,Sunshine Coast,Sunshine Beach
+24,Queensland,QLD,Sunshine Coast,Noosaville
+25,Queensland,QLD,Sunshine Coast,Diddillibah - Rosemount
+26,Queensland,QLD,Sunshine Coast,Mooloolaba - Alexandra Headland
+27,Queensland,QLD,Sunshine Coast,Buderim - North
+28,Queensland,QLD,Sunshine Coast,Sippy Downs
+29,Queensland,QLD,Sunshine Coast,Peregian Beach - Marcus Beach
+30,Queensland,QLD,Sunshine Coast,Moffat Beach - Battery Hill
+31,Queensland,QLD,Sunshine Coast,Golden Beach - Pelican Waters
+32,Queensland,QLD,Sunshine Coast,Nambour
+33,Queensland,QLD,Sunshine Coast,Landsborough
+34,Queensland,QLD,Sunshine Coast,Maroochy Hinterland
+35,Queensland,QLD,Sunshine Coast,Aroona - Currimundi
+36,Queensland,QLD,Sunshine Coast,Buderim - South
+37,Queensland,QLD,Sunshine Coast,Wurtulla - Birtinya
+38,Queensland,QLD,Sunshine Coast,Meridan Plains - Little Mountain (North)
+39,Queensland,QLD,Sunshine Coast,Peregian Springs
+40,Queensland,QLD,Sunshine Coast,Glass House Mountains
+41,Queensland,QLD,Sunshine Coast,Caloundra West - Baringa
+42,Queensland,QLD,Sunshine Coast,Bli Bli
+43,Queensland,QLD,Sunshine Coast,Mountain Creek
+44,Western Australia,WA,Western Australia,GOSNELLS
+45,Western Australia,WA,Western Australia,VINCENT
+46,Western Australia,WA,Western Australia,JOONDALUP
+47,Western Australia,WA,Western Australia,DENMARK
+48,Western Australia,WA,Western Australia,MANDURAH
+49,Western Australia,WA,Western Australia,BRIDGETOWN-GREENBUSHES
+50,Western Australia,WA,Western Australia,MELVILLE
+51,Western Australia,WA,Western Australia,EAST FREMANTLE
+52,Western Australia,WA,Western Australia,GINGIN
+53,Western Australia,WA,Western Australia,FREMANTLE
+54,Western Australia,WA,Western Australia,ALBANY
+55,Western Australia,WA,Western Australia,CANNING
+56,Western Australia,WA,Western Australia,AUGUSTA-MARGARET RIVER
+57,Western Australia,WA,Western Australia,BELMONT
+58,Western Australia,WA,Western Australia,SOUTH PERTH
+59,Western Australia,WA,Western Australia,STIRLING
+60,Western Australia,WA,Western Australia,SUBIACO
+61,Western Australia,WA,Western Australia,MANJIMUP
+62,Western Australia,WA,Western Australia,WANNEROO
+63,Western Australia,WA,Western Australia,DONNYBROOK-BALINGUP
+64,Western Australia,WA,Western Australia,BAYSWATER
+65,Western Australia,WA,Western Australia,PERTH
+66,Western Australia,WA,Western Australia,CAMBRIDGE
+67,Western Australia,WA,Western Australia,CLAREMONT
+68,Western Australia,WA,Western Australia,CAPEL
+69,Western Australia,WA,Western Australia,MURRAY
+70,Western Australia,WA,Western Australia,BASSENDEAN
+71,Western Australia,WA,Western Australia,VICTORIA PARK
+72,Western Australia,WA,Western Australia,MUNDARING
+73,Western Australia,WA,Western Australia,NORTHAMPTON
+74,Western Australia,WA,Western Australia,BUSSELTON
+75,Western Australia,WA,Western Australia,NANNUP
+76,Western Australia,WA,Western Australia,GREATER GERALDTON
+77,Western Australia,WA,Western Australia,ARMADALE
+78,Western Australia,WA,Western Australia,IRWIN
+79,Western Australia,WA,Western Australia,MOSMAN PARK
+80,Western Australia,WA,Western Australia,EXMOUTH
+81,Western Australia,WA,Western Australia,BOYUP BROOK
+82,Western Australia,WA,Western Australia,BROOME
+83,Western Australia,WA,Western Australia,COTTESLOE
+84,Western Australia,WA,Western Australia,JERRAMUNGUP
+85,Western Australia,WA,Western Australia,SHARK BAY
+86,Western Australia,WA,Western Australia,KALGOORLIE-BOULDER
+87,Western Australia,WA,Western Australia,DANDARAGAN
+88,Western Australia,WA,Western Australia,COOROW
+89,Western Australia,WA,Western Australia,COCKBURN
+90,Western Australia,WA,Western Australia,NEDLANDS
+91,Western Australia,WA,Western Australia,ESPERANCE
+92,Western Australia,WA,Western Australia,YORK
+93,Western Australia,WA,Western Australia,ROCKINGHAM
+94,Western Australia,WA,Western Australia,SWAN
+95,Western Australia,WA,Western Australia,HARVEY
+96,Western Australia,WA,Western Australia,CARNARVON
+97,Western Australia,WA,Western Australia,BUNBURY
+98,Western Australia,WA,Western Australia,RAVENSTHORPE
+99,Western Australia,WA,Western Australia,WANDERING
+100,Western Australia,WA,Western Australia,TOODYAY
+101,Western Australia,WA,Western Australia,MERREDIN
+102,Western Australia,WA,Western Australia,KALAMUNDA
+103,Western Australia,WA,Western Australia,NARROGIN
+104,Western Australia,WA,Western Australia,PORT HEDLAND
+105,Western Australia,WA,Western Australia,COLLIE
+106,Western Australia,WA,Western Australia,CHITTERING
+107,Western Australia,WA,Western Australia,WYNDHAM-EAST KIMBERLEY
+108,Western Australia,WA,Western Australia,PLANTAGENET
+109,Western Australia,WA,Western Australia,PEPPERMINT GROVE
+110,Western Australia,WA,Western Australia,YILGARN
+111,Western Australia,WA,Western Australia,KONDININ
+112,Western Australia,WA,Western Australia,WAGIN
+113,Western Australia,WA,Western Australia,DARDANUP
+114,Western Australia,WA,Western Australia,WAROONA
+115,Western Australia,WA,Western Australia,YALGOO
+116,Western Australia,WA,Western Australia,KWINANA
+117,Western Australia,WA,Western Australia,SERPENTINE-JARRAHDALE
+118,Western Australia,WA,Western Australia,GNOWANGERUP
+119,Western Australia,WA,Western Australia,CUBALLING
+120,Western Australia,WA,Western Australia,DUNDAS
+121,Western Australia,WA,Western Australia,PERENJORI
+122,Western Australia,WA,Western Australia,EAST PILBARA
+123,Western Australia,WA,Western Australia,CRANBROOK
+124,Western Australia,WA,Western Australia,CUE
+125,Western Australia,WA,Western Australia,BODDINGTON
+126,Western Australia,WA,Western Australia,KATANNING
+127,Western Australia,WA,Western Australia,PINGELLY
+128,Western Australia,WA,Western Australia,CHAPMAN VALLEY
+129,Western Australia,WA,Western Australia,KULIN
+130,Western Australia,WA,Western Australia,LAKE GRACE
+131,Western Australia,WA,Western Australia,BRUCE ROCK
+132,Western Australia,WA,Western Australia,NORTHAM
+133,Western Australia,WA,Western Australia,SANDSTONE
+134,Western Australia,WA,Western Australia,QUAIRADING
+135,Western Australia,WA,Western Australia,UPPER GASCOYNE
+136,Western Australia,WA,Western Australia,TRAYNING
+137,Western Australia,WA,Western Australia,MOUNT MARSHALL
+138,Western Australia,WA,Western Australia,CORRIGIN
+139,Western Australia,WA,Western Australia,WILLIAMS
+140,Western Australia,WA,Western Australia,BEVERLEY
+141,Western Australia,WA,Western Australia,KARRATHA
+142,Western Australia,WA,Western Australia,WEST ARTHUR
+143,Western Australia,WA,Western Australia,BROOMEHILL-TAMBELLUP
+144,Western Australia,WA,Western Australia,KOJONUP
+145,Western Australia,WA,Western Australia,CUNDERDIN
+146,Western Australia,WA,Western Australia,MOORA
+147,Western Australia,WA,Western Australia,DERBY-WEST KIMBERLEY
+148,Western Australia,WA,Western Australia,KELLERBERRIN
+149,Western Australia,WA,Western Australia,COOLGARDIE
+150,Western Australia,WA,Western Australia,WYALKATCHEM
+151,Western Australia,WA,Western Australia,MENZIES
+152,Western Australia,WA,Western Australia,GOOMALLING
+153,Western Australia,WA,Western Australia,MORAWA
+154,Western Australia,WA,Western Australia,ASHBURTON
+155,Western Australia,WA,Western Australia,BROOKTON
+156,Victoria,VIC,Mornington Peninsula,Rosebud - McCrae
+157,Victoria,VIC,Mornington Peninsula,Point Nepean
+158,Victoria,VIC,Mornington Peninsula,Mount Martha
+159,Victoria,VIC,Mornington Peninsula,Flinders
+160,Victoria,VIC,Mornington Peninsula,Mornington - West
+161,Victoria,VIC,Mornington Peninsula,Hastings - Somers
+162,Victoria,VIC,Mornington Peninsula,Mornington - East
+163,Victoria,VIC,Mornington Peninsula,Somerville
+164,Victoria,VIC,Mornington Peninsula,Dromana
+165,Victoria,VIC,Mornington Peninsula,Mount Eliza
+166,Victoria,VIC,Melbourne,Moreland
+167,Victoria,VIC,Melbourne,Casey
+168,Victoria,VIC,Melbourne,Melbourne
+169,Victoria,VIC,Melbourne,Monash
+170,Victoria,VIC,Melbourne,Frankston
+171,Victoria,VIC,Melbourne,Yarra
+172,Victoria,VIC,Melbourne,Boroondara
+173,Victoria,VIC,Melbourne,Glen Eira
+174,Victoria,VIC,Melbourne,Port Phillip
+175,Victoria,VIC,Melbourne,Kingston
+176,Victoria,VIC,Melbourne,Yarra Ranges
+177,Victoria,VIC,Melbourne,Stonnington
+178,Victoria,VIC,Melbourne,Whitehorse
+179,Victoria,VIC,Melbourne,Brimbank
+180,Victoria,VIC,Melbourne,Hobsons Bay
+181,Victoria,VIC,Melbourne,Wyndham
+182,Victoria,VIC,Melbourne,Banyule
+183,Victoria,VIC,Melbourne,Maribyrnong
+184,Victoria,VIC,Melbourne,Darebin
+185,Victoria,VIC,Melbourne,Knox
+186,Victoria,VIC,Melbourne,Bayside
+187,Victoria,VIC,Melbourne,Nillumbik
+188,Victoria,VIC,Melbourne,Cardinia
+189,Victoria,VIC,Melbourne,Maroondah
+190,Victoria,VIC,Melbourne,Hume
+191,Victoria,VIC,Melbourne,Manningham
+192,Victoria,VIC,Melbourne,Melton
+193,Victoria,VIC,Melbourne,Greater Dandenong
+194,Victoria,VIC,Melbourne,Moonee Valley
+195,Victoria,VIC,Melbourne,Whittlesea
+196,New South Wales,NSW,Northern Rivers,BYRON SHIRE COUNCIL
+197,New South Wales,NSW,Northern Rivers,CLARENCE VALLEY COUNCIL
+198,New South Wales,NSW,Northern Rivers,TWEED SHIRE COUNCIL
+199,New South Wales,NSW,Northern Rivers,LISMORE CITY COUNCIL
+200,New South Wales,NSW,Northern Rivers,BALLINA SHIRE COUNCIL
+201,New South Wales,NSW,Northern Rivers,KYOGLE COUNCIL
+202,New South Wales,NSW,Northern Rivers,RICHMOND VALLEY COUNCIL
+203,New South Wales,NSW,Sydney,Sydney
+204,New South Wales,NSW,Sydney,Manly
+205,New South Wales,NSW,Sydney,Mosman
+206,New South Wales,NSW,Sydney,Hornsby
+207,New South Wales,NSW,Sydney,Randwick
+208,New South Wales,NSW,Sydney,Warringah
+209,New South Wales,NSW,Sydney,Waverley
+210,New South Wales,NSW,Sydney,Ku-Ring-Gai
+211,New South Wales,NSW,Sydney,Pittwater
+212,New South Wales,NSW,Sydney,North Sydney
+213,New South Wales,NSW,Sydney,Sutherland Shire
+214,New South Wales,NSW,Sydney,Woollahra
+215,New South Wales,NSW,Sydney,Marrickville
+216,New South Wales,NSW,Sydney,Lane Cove
+217,New South Wales,NSW,Sydney,Parramatta
+218,New South Wales,NSW,Sydney,Hurstville
+219,New South Wales,NSW,Sydney,Leichhardt
+220,New South Wales,NSW,Sydney,Canterbury
+221,New South Wales,NSW,Sydney,Penrith
+222,New South Wales,NSW,Sydney,Hunters Hill
+223,New South Wales,NSW,Sydney,Ryde
+224,New South Wales,NSW,Sydney,Rockdale
+225,New South Wales,NSW,Sydney,Willoughby
+226,New South Wales,NSW,Sydney,Auburn
+227,New South Wales,NSW,Sydney,Burwood
+228,New South Wales,NSW,Sydney,Bankstown
+229,New South Wales,NSW,Sydney,City Of Kogarah
+230,New South Wales,NSW,Sydney,Botany Bay
+231,New South Wales,NSW,Sydney,Camden
+232,New South Wales,NSW,Sydney,Ashfield
+233,New South Wales,NSW,Sydney,Canada Bay
+234,New South Wales,NSW,Sydney,The Hills Shire
+235,New South Wales,NSW,Sydney,Blacktown
+236,New South Wales,NSW,Sydney,Liverpool
+237,New South Wales,NSW,Sydney,Campbelltown
+238,New South Wales,NSW,Sydney,Holroyd
+239,New South Wales,NSW,Sydney,Strathfield
+240,New South Wales,NSW,Sydney,Fairfield
+241,Queensland,QLD,Brisbane,Wavell Heights
+242,Queensland,QLD,Brisbane,Upper Mount Gravatt
+243,Queensland,QLD,Brisbane,West End
+244,Queensland,QLD,Brisbane,Auchenflower
+245,Queensland,QLD,Brisbane,Rocklea - Acacia Ridge
+246,Queensland,QLD,Brisbane,Spring Hill
+247,Queensland,QLD,Brisbane,Riverhills
+248,Queensland,QLD,Brisbane,Tarragindi
+249,Queensland,QLD,Brisbane,South Brisbane
+250,Queensland,QLD,Brisbane,Brisbane City
+251,Queensland,QLD,Brisbane,Rochedale - Burbank
+252,Queensland,QLD,Brisbane,Enoggera
+253,Queensland,QLD,Brisbane,Morningside - Seven Hills
+254,Queensland,QLD,Brisbane,New Farm
+255,Queensland,QLD,Brisbane,Fortitude Valley
+256,Queensland,QLD,Brisbane,Kenmore
+257,Queensland,QLD,Brisbane,Yeronga
+258,Queensland,QLD,Brisbane,Boondall
+259,Queensland,QLD,Brisbane,Kangaroo Point
+260,Queensland,QLD,Brisbane,Highgate Hill
+261,Queensland,QLD,Brisbane,Bardon
+262,Queensland,QLD,Brisbane,Sherwood
+263,Queensland,QLD,Brisbane,Woolloongabba
+264,Queensland,QLD,Brisbane,Toowong
+265,Queensland,QLD,Brisbane,Aspley
+266,Queensland,QLD,Brisbane,Taringa
+267,Queensland,QLD,Brisbane,Fairfield - Dutton Park
+268,Queensland,QLD,Brisbane,Paddington - Milton
+269,Queensland,QLD,Brisbane,Windsor
+270,Queensland,QLD,Brisbane,Camp Hill
+271,Queensland,QLD,Brisbane,Coorparoo
+272,Queensland,QLD,Brisbane,Moreton Island
+273,Queensland,QLD,Brisbane,Newmarket
+274,Queensland,QLD,Brisbane,Manly West
+275,Queensland,QLD,Brisbane,Hawthorne
+276,Queensland,QLD,Brisbane,Robertson
+277,Queensland,QLD,Brisbane,Moorooka
+278,Queensland,QLD,Brisbane,Annerley
+279,Queensland,QLD,Brisbane,Wooloowin - Lutwyche
+280,Queensland,QLD,Brisbane,East Brisbane
+281,Queensland,QLD,Brisbane,Kelvin Grove - Herston
+282,Queensland,QLD,Brisbane,Indooroopilly
+283,Queensland,QLD,Brisbane,Belmont - Gumdale
+284,Queensland,QLD,Brisbane,Balmoral
+285,Queensland,QLD,Brisbane,Clayfield
+286,Queensland,QLD,Brisbane,Everton Park
+287,Queensland,QLD,Brisbane,Salisbury - Nathan
+288,Queensland,QLD,Brisbane,Mansfield (Qld)
+289,Queensland,QLD,Brisbane,Chapel Hill
+290,Queensland,QLD,Brisbane,Newstead - Bowen Hills
+291,Queensland,QLD,Brisbane,Manly - Lota
+292,Queensland,QLD,Brisbane,Eight Mile Plains
+293,Queensland,QLD,Brisbane,Algester
+294,Queensland,QLD,Brisbane,Red Hill (Qld)
+295,Queensland,QLD,Brisbane,Kedron - Gordon Park
+296,Queensland,QLD,Brisbane,Albion
+297,Queensland,QLD,Brisbane,Ashgrove
+298,Queensland,QLD,Brisbane,Carina Heights
+299,Queensland,QLD,Brisbane,Taigum - Fitzgibbon
+300,Queensland,QLD,Brisbane,Nundah
+301,Queensland,QLD,Brisbane,Mount Gravatt
+302,Queensland,QLD,Brisbane,Greenslopes
+303,Queensland,QLD,Brisbane,Fig Tree Pocket
+304,Queensland,QLD,Brisbane,Sunnybank
+305,Queensland,QLD,Brisbane,St Lucia
+306,Queensland,QLD,Brisbane,Seventeen Mile Rocks - Sinnamon Park
+307,Queensland,QLD,Brisbane,Brookfield - Kenmore Hills
+308,Queensland,QLD,Brisbane,Mitchelton
+309,Queensland,QLD,Brisbane,Calamvale - Stretton
+310,Queensland,QLD,Brisbane,Chermside
+311,Queensland,QLD,Brisbane,Wynnum
+312,Queensland,QLD,Brisbane,Hamilton (Qld)
+313,Queensland,QLD,Brisbane,Carindale
+314,Queensland,QLD,Brisbane,Karana Downs
+315,Queensland,QLD,Brisbane,Alderley
+316,Queensland,QLD,Brisbane,Enoggera Reservoir
+317,Queensland,QLD,Brisbane,Bald Hills
+318,Queensland,QLD,Brisbane,Macgregor (Qld)
+319,Queensland,QLD,Brisbane,Ascot
+320,Queensland,QLD,Brisbane,Sunnybank Hills
+321,Queensland,QLD,Brisbane,Bulimba
+322,Queensland,QLD,Brisbane,McDowall
+323,Queensland,QLD,Brisbane,Wynnum West - Hemmant
+324,Queensland,QLD,Brisbane,Holland Park
+325,Queensland,QLD,Brisbane,The Gap
+326,Queensland,QLD,Brisbane,Grange
+327,Queensland,QLD,Brisbane,Chelmer - Graceville
+328,Queensland,QLD,Brisbane,Cannon Hill
+329,Queensland,QLD,Brisbane,Darra - Sumner
+330,Queensland,QLD,Brisbane,Wilston
+331,Queensland,QLD,Brisbane,Holland Park West
+332,Queensland,QLD,Brisbane,Pinjarra Hills - Pullenvale
+333,Queensland,QLD,Brisbane,Kuraby
+334,Queensland,QLD,Brisbane,Norman Park
+335,Queensland,QLD,Brisbane,Corinda
+336,Queensland,QLD,Brisbane,Tingalpa
+337,Queensland,QLD,Brisbane,Parkinson - Drewvale
+338,Queensland,QLD,Brisbane,Brighton (Qld)
+339,Queensland,QLD,Brisbane,Geebung
+340,Queensland,QLD,Brisbane,Hendra
+341,Queensland,QLD,Brisbane,Carseldine
+342,Queensland,QLD,Brisbane,Coopers Plains
+343,Queensland,QLD,Brisbane,Wacol
+344,Queensland,QLD,Brisbane,Forest Lake - Ellen Grove
+345,Queensland,QLD,Brisbane,Northgate - Virginia
+346,Queensland,QLD,Brisbane,Stafford
+347,Queensland,QLD,Brisbane,Jindalee - Mount Ommaney
+348,Queensland,QLD,Brisbane,Bridgeman Downs
+349,Queensland,QLD,Brisbane,Keperra
+350,Queensland,QLD,Brisbane,Doolandella
+351,Queensland,QLD,Brisbane,Pallara - Willawong
+352,Queensland,QLD,Brisbane,Sandgate - Shorncliffe
+353,Queensland,QLD,Brisbane,Carina
+354,Queensland,QLD,Brisbane,Brisbane Airport
+355,Queensland,QLD,Brisbane,Durack
+356,Queensland,QLD,Brisbane,Runcorn
+357,Queensland,QLD,Brisbane,Zillmere
+358,Queensland,QLD,Brisbane,Stafford Heights
+359,Queensland,QLD,Brisbane,Oxley (Qld)
+360,Queensland,QLD,Brisbane,Eagle Farm - Pinkenba
+361,Queensland,QLD,Brisbane,Murarrie
+362,Queensland,QLD,Brisbane,Nudgee - Banyo
+363,Queensland,QLD,Brisbane,Middle Park - Jamboree Heights
+364,Queensland,QLD,Brisbane,Wakerley
+365,Queensland,QLD,Brisbane,Deagon
+366,Queensland,QLD,Brisbane,Wishart
+367,Queensland,QLD,Brisbane,Upper Kedron - Ferny Grove
+368,Queensland,QLD,Brisbane,Inala - Richlands
+369,Queensland,QLD,Brisbane,Chermside West
+370,Queensland,QLD,Brisbane,Bracken Ridge
+371,Queensland,QLD,Brisbane,Bellbowrie - Moggill
+372,Queensland,QLD,Brisbane,Westlake
+373,Tasmania,TAS,Tasmania,Kentish
+374,Tasmania,TAS,Tasmania,Hobart
+375,Tasmania,TAS,Tasmania,Launceston
+376,Tasmania,TAS,Tasmania,Central Coast
+377,Tasmania,TAS,Tasmania,Circular Head
+378,Tasmania,TAS,Tasmania,Central Highlands
+379,Tasmania,TAS,Tasmania,Glenorchy
+380,Tasmania,TAS,Tasmania,Waratah/Wynyard
+381,Tasmania,TAS,Tasmania,Break O'Day
+382,Tasmania,TAS,Tasmania,Kingborough
+383,Tasmania,TAS,Tasmania,Dorset
+384,Tasmania,TAS,Tasmania,West Tamar
+385,Tasmania,TAS,Tasmania,Huon Valley
+386,Tasmania,TAS,Tasmania,Clarence
+387,Tasmania,TAS,Tasmania,Meander Valley
+388,Tasmania,TAS,Tasmania,Derwent Valley
+389,Tasmania,TAS,Tasmania,Glamorgan/Spring Bay
+390,Tasmania,TAS,Tasmania,Devonport
+391,Tasmania,TAS,Tasmania,Sorell
+392,Tasmania,TAS,Tasmania,Southern Midlands
+393,Tasmania,TAS,Tasmania,Northern Midlands
+394,Tasmania,TAS,Tasmania,West Coast
+395,Tasmania,TAS,Tasmania,Brighton
+396,Tasmania,TAS,Tasmania,Tasman
+397,Tasmania,TAS,Tasmania,King Island
+398,Tasmania,TAS,Tasmania,Latrobe
+399,Tasmania,TAS,Tasmania,George Town
+400,Tasmania,TAS,Tasmania,Flinders
+401,Tasmania,TAS,Tasmania,Burnie
+402,New South Wales,NSW,Mid North Coast,Bellingen
+403,New South Wales,NSW,Mid North Coast,Mid-Coast
+404,New South Wales,NSW,Mid North Coast,Nambucca Valley
+405,New South Wales,NSW,Mid North Coast,Kempsey
+406,New South Wales,NSW,Mid North Coast,Coffs Harbour
+407,New South Wales,NSW,Mid North Coast,Port Macquarie-Hastings
+408,South Australia,SA,Barossa Valley,Angaston
+409,South Australia,SA,Barossa Valley,Penrice
+410,South Australia,SA,Barossa Valley,Shea-Oak Log
+411,South Australia,SA,Barossa Valley,Tanunda
+412,South Australia,SA,Barossa Valley,Lyndoch
+413,South Australia,SA,Barossa Valley,Gawler River
+414,South Australia,SA,Barossa Valley,Cockatoo Valley
+415,South Australia,SA,Barossa Valley,Flaxman Valley
+416,South Australia,SA,Barossa Valley,Nuriootpa
+417,South Australia,SA,Barossa Valley,Kapunda
+418,South Australia,SA,Barossa Valley,Altona
+419,South Australia,SA,Barossa Valley,Sandy Creek
+420,South Australia,SA,Barossa Valley,Moculta
+421,South Australia,SA,Barossa Valley,Marananga
+422,South Australia,SA,Barossa Valley,Mount Crawford
+423,South Australia,SA,Barossa Valley,Williamstown
+424,South Australia,SA,Barossa Valley,Light Pass
+425,South Australia,SA,Barossa Valley,Eden Valley
+426,South Australia,SA,Barossa Valley,Bethany
+427,South Australia,SA,Barossa Valley,Greenock
+428,South Australia,SA,Barossa Valley,Mount Pleasant
+429,South Australia,SA,Barossa Valley,Concordia
+430,South Australia,SA,Barossa Valley,Buchfelde
+431,South Australia,SA,Barossa Valley,Springton
+432,South Australia,SA,Barossa Valley,Roseworthy
