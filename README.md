@@ -70,7 +70,7 @@ These are **estimates, not actual revenue**. A listing that is unavailable is as
 
 ## Data
 
-`data/` holds the dimension and fact CSVs produced by the notebook, plus the external tourism dataset. The raw regional listing files are not included. [[ add data source and licence once confirmed ]]
+`data/` holds the dimension and fact CSVs produced by the notebook, plus the external tourism dataset. The raw regional listing files were provided by Murdoch University for ICT394 and are not redistributed here.
 
 `HOST_Dimension.csv` is also left out because it contains individual host names. Run the notebook against the source listings to regenerate it.
 
